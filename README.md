@@ -1,5 +1,5 @@
-# Spring Boot Based Microservices
-A comprehensive, production-ready microservices reference architecture designed for managing courses and user reviews. This repository demonstrates modern cloud-native patterns with a heavy emphasis on:
+# SpringScholar Hub
+A comprehensive, production-ready microservices architecture designed for managing courses and user reviews. This repository demonstrates modern cloud-native patterns with a heavy emphasis on:
 
 - Centralized API routing via an edge gateway.
 
